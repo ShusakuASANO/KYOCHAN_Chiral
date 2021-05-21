@@ -3,7 +3,7 @@ KYOCHAN_Chiral is a standalone software for an automated analysis of stereochemi
 
 **Hardware requirement**
 
-Syringe pump: Many models of the syringe pumps are supported in KYOCHAN_Chral. It should have a USB or RS-232 connection port. 
+Syringe pump: Many models of the syringe pumps are supported in KYOCHAN_Chiral. It should have a USB or RS-232 connection port. 
 
 Temperature sensor: TC-01 (NI) is supported.
 
