@@ -1,9 +1,10 @@
 # KYOCHAN_Chiral
 KYOCHAN_Chiral is a standalone software for an automated analysis of stereochemical stability of dynamic chiral molecules using microflow setup. Its details and benefits are described in a publication DOI:xxxxxxxx. 
+The standalone software with installer is provided here. Windows 10 is recommended. 
 
 **Hardware requirement**
 
-Syringe pump: Many models of the syringe pumps are supported in KYOCHAN_Chiral. It should have a USB or RS-232 connection port. Pump11Elite or PHD ULTRA(Harvard Apparatus) is recommended. 
+Syringe pump: Many models of the syringe pumps are supported in KYOCHAN_Chiral. It should have a USB or RS-232 connection port. Pump11Elite or PHD ULTRA(Harvard Apparatus) is recommended.
 
 Temperature sensor: TC-01 (NI) is supported.
 
