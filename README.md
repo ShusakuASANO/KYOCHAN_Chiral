@@ -1,6 +1,6 @@
 # KYOCHAN_Chiral
 KYOCHAN_Chiral is a standalone software for an automated analysis of stereochemical stability of dynamic chiral molecules using microflow setup. Its details and benefits are described in a publication DOI:xxxxxxxx. 
-The standalone software with installer is provided here. Windows 10 is recommended. 
+The standalone software is provided here. Windows 10 is recommended. You may require internet connection to install runtime engines (NI) for the first time.
 
 **Hardware requirement**
 
