@@ -10,7 +10,7 @@ Temperature sensor: TC-01 (NI) is supported.
 
 Digital output device: USB-DAQ and Compact DAQ (NI) modules are supported.
 
-6 port valve: Valves controlled by digital input or relay contact can be used. 
+6 port valve: Valves controlled by digital input or relay contact can be used. VA-21 series valve (FLOM) is supported exceptionally. 
 
 HPLC system: Any models of HPLC system which have start signal input can be used.
 
