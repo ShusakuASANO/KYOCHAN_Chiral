@@ -2,6 +2,11 @@
 KYOCHAN_Chiral is a standalone software for an automated analysis of stereochemical stability of dynamic chiral molecules using microflow setup. Its details and benefits are described in a publication DOI:xxxxxxxx. The newest version is 3.0, released in May, 2021.
 The standalone executable file is provided here. Windows 10 PC is recommended. You may require internet connection to install runtime engines (NI).
 
+**Files**
+KYHOCHAN3.0_Chiral.zip: Executable application file and data folder. Do not change data folder directry.
+
+demo_spreadsheet: Example of the spreadsheet file that can be read and executed from KYOCHAN.
+
 **Hardware requirement**
 
 Syringe pump: Many models of the syringe pumps are supported in KYOCHAN_Chiral. It should have a USB or RS-232 connection port. Pump11 Elite or PHD ULTRA(Harvard Apparatus) is recommended.
