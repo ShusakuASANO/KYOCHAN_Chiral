@@ -8,6 +8,8 @@ KYHOCHAN3.0_Chiral.zip: Executable application file and data folder. Do not chan
 
 demo_spreadsheet: Example of the spreadsheet file that can be read and executed from KYOCHAN.
 
+spreadsheet_template.xlsx: Template excel file to make spreadsheet. You can fill in the excel table and copy them to the blank txt file to make spreadsheet that can be read from KYOCHAN.
+
 **Hardware requirement**
 
 Syringe pump: Many models of the syringe pumps are supported in KYOCHAN_Chiral. It should have a USB or RS-232 connection port. Pump11 Elite or PHD ULTRA(Harvard Apparatus) is recommended.
